@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "1.0.0-rc",
     "license": "MIT",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -37,8 +37,7 @@
     "name": "dd-producto-card",
     "author": "DiegoDom",
     "module": "dist/dd-producto-card.esm.js",
-    "size-limit": [
-        {
+    "size-limit": [{
             "path": "dist/dd-producto-card.cjs.production.min.js",
             "limit": "10 KB"
         },
